@@ -1,4 +1,4 @@
-# Full Stack Assignment (HTML/CSS, Bootstrap, JavaScript, Django)
+# Full Stack Assignment (HTML/CSS, Bootstrap, JavaScript, Python, Django)
 
 <p align="center" border="none">
   <img alt="Hubinit" src="./hubinit.png" align="center">
